@@ -23,6 +23,7 @@ python main.py
 | Y     | Yellow rectangle |
 | P     | Purple rectangle |
 | SPACE | Save screenshot  |
+
 Technologies Used
 Python
 OpenCV
